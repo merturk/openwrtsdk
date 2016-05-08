@@ -1,1 +1,1 @@
-# openwrtsdk
+# OpenWRT Mac OS X SDK 
